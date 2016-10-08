@@ -1,0 +1,44 @@
+body{
+  width: 100%;
+  height: 100%;
+  background: #F1EADC;
+  color: #1493A5;
+  padding: 4rem 2rem;
+}
+
+.container{
+  max-width: 600px;
+}
+
+/* button variation */
+
+button{
+  font-size: 1.64rem;
+  background-color: #F1EADC;
+  border-color: #1493A5;
+  color:#1493A5;
+}
+button:hover {
+  background-color: #1493A5;
+  border-color: #1493A5;
+  color:#F1EADC;
+}
+input[type="text"], input[type="text"]:focus{
+  background: #F1EADC;
+  border: 1px solid #1493A5;
+  color: #1493A5;
+}
+/* utilities and overwrites */
+
+.margin-bot-full{
+  margin-bottom: 40px;
+}
+
+.margin-bot-half{
+  margin-bottom: 20px;
+}
+
+.center{
+  text-align: center;
+}
+
