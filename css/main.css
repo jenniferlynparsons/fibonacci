@@ -5,7 +5,6 @@ body{
   color: #1493A5;
   padding: 4rem 2rem;
 }
-
 .container{
   max-width: 600px;
 }
@@ -28,17 +27,15 @@ input[type="text"], input[type="text"]:focus{
   border: 1px solid #1493A5;
   color: #1493A5;
 }
+
 /* utilities and overwrites */
 
 .margin-bot-full{
   margin-bottom: 40px;
 }
-
 .margin-bot-half{
   margin-bottom: 20px;
 }
-
 .center{
   text-align: center;
 }
-
